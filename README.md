@@ -61,7 +61,7 @@
   <a href="http://eleshvaishanv.work.gd">Portfolio</a><br>
     </p>
     <p>
-   <a href="eleshvaish01@gmail.com">Email</a><br>
+   Email: eleshvaish01@gmail.com <br>
 </p>
 
 <hr>
