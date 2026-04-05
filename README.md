@@ -8,7 +8,7 @@
 
 <h2>🌐 Live Portfolio</h2>
 <p>
-  <a href="http://eleshvaishanv.work.gd" target="_blank">
+  <a href="https://eleshvaishnav.work.gd" target="_blank">
   View My Portfolio
   </a>
 </p>
@@ -58,7 +58,7 @@
    <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229">Linkedin</a><br>
   </p>
  <p>
-  <a href="http://eleshvaishanv.work.gd">Portfolio</a><br>
+  <a href="https://eleshvaishnav.work.gd">Portfolio</a><br>
     </p>
     <p>
    Email: eleshvaish01@gmail.com <br>
@@ -67,4 +67,4 @@
 <hr>
 
 <h2>⭐ Support</h2>
-<p>If you like this project, give it a star ⭐</p>
+<p>If you like this project http://www.parmana.work.gd, give it a star ⭐</p>
