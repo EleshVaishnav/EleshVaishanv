@@ -56,8 +56,10 @@
 
 <p>
   Linkedin: <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229">EleshVaishnav</a><br>
+  </p>
  <p>
   Portfolio: <a href="http://eleshvaishanv.work.gd" target="_blank"> <br>
+    </p>
   Email: "eleshvaish01@gmail.com"<br>
 </p>
 
