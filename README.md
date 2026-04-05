@@ -8,7 +8,7 @@
 
 <h2>🌐 Live Portfolio</h2>
 <p>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="http://eleshvaishanv.work.gd" target="_blank">
   View My Portfolio
   </a>
 </p>
@@ -55,8 +55,8 @@
 <h2>📫 Contact</h2>
 
 <p>
-  Linkdin: <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">EleshVaishnav</a><br>
-  Portfolio: (https://eleshvaish01.wixsite.com/eleshvaishnav)<br>
+  Linkdin: <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229">EleshVaishnav</a><br>
+  Portfolio: <a href="http://eleshvaishanv.work.gd" target="_blank"> <br>
   Email: "eleshvaish01@gmail.com"<br>
 </p>
 
