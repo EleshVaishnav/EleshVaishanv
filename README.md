@@ -55,12 +55,13 @@
 <h2>📫 Contact</h2>
 
 <p>
-  Linkedin: <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229">EleshVaishnav</a><br>
+   <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229">Linkedin</a><br>
   </p>
  <p>
-  Portfolio: <a href="http://eleshvaishanv.work.gd">EleshVaishnav</a><br>
+  <a href="http://eleshvaishanv.work.gd">Portfolio</a><br>
     </p>
-  Email: "eleshvaish01@gmail.com"<br>
+    <p>
+   <a href="eleshvaish01@gmail.com">Email</a><br>
 </p>
 
 <hr>
